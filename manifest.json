@@ -1,0 +1,10 @@
+{
+  "id": "get-linknote-og",
+  "name": "Get LinkNote OG",
+  "version": "0.1.0",
+  "minAppVersion": "1.6.0",
+  "description": "Sync link original text from Get notes into your Obsidian vault.",
+  "author": "Cory Li",
+  "authorUrl": "https://github.com/coryli",
+  "isDesktopOnly": true
+}

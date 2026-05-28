@@ -1,0 +1,24 @@
+{
+  "name": "get-linknote-og",
+  "version": "0.1.0",
+  "description": "Obsidian plugin to sync link original text from Get notes",
+  "main": "main.js",
+  "scripts": {
+    "build": "node esbuild.config.mjs production",
+    "dev": "node esbuild.config.mjs"
+  },
+  "keywords": [
+    "obsidian",
+    "obsidian-plugin",
+    "get-linknote"
+  ],
+  "author": "Cory Li",
+  "license": "MIT",
+  "devDependencies": {
+    "builtin-modules": "^4.0.0",
+    "esbuild": "^0.25.12",
+    "obsidian": "^1.8.10",
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {}
+}
